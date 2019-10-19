@@ -22,5 +22,4 @@ func Raid1a(x, y int) {
 
 		}
 	}
-
 }
