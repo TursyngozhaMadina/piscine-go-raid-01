@@ -49,5 +49,5 @@ func Raid1b(x, y int) {
 	}
 }
 func main() {
-	Raid1b(5, 1)
+	Raid1b(5, 3)
 }
